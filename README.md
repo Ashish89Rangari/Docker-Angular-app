@@ -28,7 +28,6 @@ Clone git repo
 ```bash
 $ git clone https://github.com/Ashish89Rangari/Docker-Angular-app.git
 ```
-Build the image using the following command
 
 Go inside the project folder
 

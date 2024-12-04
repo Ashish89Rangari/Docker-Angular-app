@@ -1,6 +1,11 @@
 # Docker-Angular-app
 Docker-Angular-app  deployed on NGINX web-server.
 
+# Application 
+![image](https://github.com/user-attachments/assets/a30257cd-7722-4997-be97-fa600db3d655)
+
+
+
 # Requirements and Point to noted 
 
 1.	Angular is a framework which is used to develop frontend of application (UI)
